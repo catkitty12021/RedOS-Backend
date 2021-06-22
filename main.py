@@ -2,7 +2,7 @@
 import keep_alive
 from scratchclient import ScratchSession
 from replit import db
-session = ScratchSession("StickRed_Test", "AlanBecker")
+session = ScratchSession("username", "password")
 connection = session.create_cloud_connection(543069795)
 
 # Definitions
