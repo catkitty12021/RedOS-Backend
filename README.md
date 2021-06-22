@@ -8,6 +8,7 @@ This is the code for [this project]https://scratch.mit.edu/projects/543069795. N
 .
 
 Uhh... wanna talk?
+
 .
 
 .
@@ -19,9 +20,11 @@ Uhh... wanna talk?
 .
 
 Okay... I guess not.
+
 .
 
 This is awkward...
+
 .
 
 .
